@@ -8,6 +8,7 @@
     (title "PMOD levelshifter")
     (date "2021-11-03")
     (rev "v1.0a")
+    (comment 1 "Made by mole99")
   )
 
   (lib_symbols
